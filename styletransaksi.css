@@ -1,0 +1,117 @@
+body{
+	color : white;
+	font-family: "avenir next";
+	background-color: #FFDEAD;
+}
+li {
+	list-style: none;
+	text-align: center;
+	border-radius: 5px ;
+}
+.kop{
+	background-color:#CD853F;
+	padding: 30px;
+	width: 80%;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+.kop img {
+	float: left;
+	margin-top: -80px;
+	margin-left: 15px;
+}
+
+.header {
+	background-color : #F4A460;
+	width: 85%;
+	height : 50px ;
+	font-family: arial black;
+}
+
+
+.header-list li:hover {
+	background-color: #FF7F50;
+	color: #DC143C;
+}
+
+.header li {
+	background-color :#F4A460;
+	float: left;
+	margin :10px ;
+	display : block ;
+	padding: 5px 5px;
+	padding-right: 10px;
+	color : white;
+	
+}
+
+.contact-item {
+	float: left ;
+	margin-right : 25px ;
+	margin-left : 70px;
+	margin-top: 25px;
+}
+
+.contact-form {
+	height: 500 px ;
+	background-color : white;
+	padding-bottom :900px ;
+	width : 85%;
+	color : #D2691E ;
+	text-align: center;
+	font-size: 25px;
+}
+.contact-form p {
+	color : black ;
+
+}
+.contact-item img  {
+	border : 1px solid black ;
+	width: 200px;
+	height: 200px;
+	margin-top: -5px;
+}
+
+.contact-form p{
+	font-size: 14px;
+	text-align:center;
+	margin-top: 30px;
+	border:2px solid black;
+	border-radius:10px;
+	background-color: #FF4500;
+	color:white
+}
+
+.contact-form p:hover {
+	background-color: #FFA500; 
+	color: #FF0000;
+}
+
+.footer {
+	background-color: #CD853F;
+	color: white;
+	height: 30px;
+	padding: 30px;
+	width: 80%;
+	font-size: 50px;
+	margin-top: 20px;
+}
+
+.footer-logo {
+	font-size: 32px;
+	float: left;
+}
+
+.footer-list {
+	float: right;
+	text-align : right;
+	font-size: 15px;
+}
+
+.footer-item p{
+	font-size: 50px;
+	text-align: center;
+	color: #B8860B;
+}
